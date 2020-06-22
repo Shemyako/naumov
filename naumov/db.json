@@ -1,0 +1,83 @@
+{
+  "mother": [
+    {
+      "id": 1,
+      "name": "ASUS 'M5A78L-M PLUS/USB3'",
+      "garanted": "36",
+      "creator": "ASUS",
+      "cipSet": "AMD 780L / SB710"
+    },
+    {
+      "id": 2,
+      "name": "GIGABYTE 'GA-78LMT-S2 R2'",
+      "garanted": "36",
+      "creator": "GIGABYTE",
+      "cipSet": "AMD 760G / SB710"
+    },
+    {
+      "name": "boba's mama",
+      "creator": "boba's grandfa",
+      "garanted": "70",
+      "cipSet": "no",
+      "id": 3
+    },
+    {
+      "name": "te",
+      "creator": "st",
+      "garanted": "me",
+      "cipSet": "st",
+      "id": 4
+    },
+    {
+      "name": "tt",
+      "creator": "we",
+      "garanted": "ijhuygtfd",
+      "cipSet": "j;khgghf",
+      "id": 5
+    },
+    {
+      "name": "Test1",
+      "creator": "Test2",
+      "garanted": "NeTest1",
+      "cipSet": "NeTest2",
+      "id": 6
+    }
+  ],
+  "cpu": [
+    {
+      "id": 1,
+      "name": "AMD 'Athlon 200GE' SocketAM4",
+      "garanted": "12",
+      "creator": "AMD",
+      "jadro": "Raven Ridge"
+    },
+    {
+      "id": 2,
+      "name": "Intel 'Pentium G5400' Socket1151",
+      "garanted": "12",
+      "creator": "Intel",
+      "jadro": "Coffee lake-S"
+    },
+    {
+      "name": "biba's cpu",
+      "creator": "biba's papa",
+      "garanted": "8",
+      "jadro": "yes",
+      "id": 3
+    },
+    {
+      "name": "ww",
+      "creator": "aa",
+      "garanted": "qq",
+      "jadro": "yy",
+      "id": 4
+    },
+    {
+      "name": "swarga",
+      "creator": "swarga1",
+      "garanted": "neswarga",
+      "jadro": "neswarga1",
+      "id": 5
+    }
+  ]
+}
